@@ -282,11 +282,7 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
-## Autor/a
 
 **Nombre:** Nahuel Medina
 **Ciudad:** Ñemby
-**Qué me gustaría construir en el programa:** Forma de pago
-
-
-![example workflow](https://github.com/instituto-cird/ia-dev-template-2026-ii/actions/workflows/ci.yml/badge.svg)
+**Qué me gustaría construir en el programa:** Forma de Pago
