@@ -287,3 +287,4 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 **Ciudad:** Ñemby
 **Qué me gustaría construir en el programa:** Forma de Pago
 
+![example workflow](https://github.com/instituto-cird/ia-dev-nahumedi/actions/workflows/ci.yml/badge.svg)
