@@ -286,3 +286,4 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 **Nombre:** Nahuel Medina
 **Ciudad:** Ñemby
 **Qué me gustaría construir en el programa:** Forma de Pago
+
